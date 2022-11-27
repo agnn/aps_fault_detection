@@ -13,6 +13,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+<<<<<<< HEAD
 
 
 To download your dataset
@@ -72,3 +73,5 @@ git pull origin main
 ```
 Note: origin--> contains url to your github repo
 main--> is your branch name
+=======
+>>>>>>> edbc01a790aa416a18399ce90432f74e41bfaf54
