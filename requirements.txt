@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 dill==0.3.5.1
 dnspython==2.2.1
 fastapi==0.78.0
@@ -15,7 +14,3 @@ websockets==10.3
 wincertstore==0.2
 xgboost==1.6.2
 -e .
-=======
-pymongo
-pandas
->>>>>>> edbc01a790aa416a18399ce90432f74e41bfaf54
