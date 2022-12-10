@@ -73,5 +73,16 @@ git pull origin main
 ```
 Note: origin--> contains url to your github repo
 main--> is your branch name
+<<<<<<< HEAD
 =======
 >>>>>>> edbc01a790aa416a18399ce90432f74e41bfaf54
+=======
+
+
+.env file has
+```
+MONGO_DB_URL="mongodb://localhost:27017"
+AWS_ACCESS_KEY_ID="aagswdiquyawvdiu"
+AWS_SECRET_ACCESS_KEY="sadoiuabnswodihabosdbn"
+```
+>>>>>>> 82f64a0ec9c2ded4efc8117094721985fb002ff8
