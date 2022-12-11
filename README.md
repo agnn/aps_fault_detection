@@ -85,4 +85,15 @@ MONGO_DB_URL="mongodb://localhost:27017"
 AWS_ACCESS_KEY_ID="aagswdiquyawvdiu"
 AWS_SECRET_ACCESS_KEY="sadoiuabnswodihabosdbn"
 ```
+<<<<<<< HEAD
 >>>>>>> 82f64a0ec9c2ded4efc8117094721985fb002ff8
+=======
+
+```
+curl -fsSL https://get.docker.com -o get-docker.sh
+sudo sh get-docker.sh
+sudo usermod -aG docker ubuntu
+newgrp docker
+```
+
+>>>>>>> 9261c098f4a518451584f4c42a9785dcbf6e9938
